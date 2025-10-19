@@ -1,6 +1,6 @@
 Финальный проект 7 спринта курса "Инженер по тестированию: от новичка до автоматизатора" на тему "Тестирование API"
 
-Автотесты для сервиса для учебного сервиса «Яндекс.Самокат» http://qa-scooter.praktikum-services.ru/
+Автотесты для «Яндекс.Самокат» http://qa-scooter.praktikum-services.ru/
 Документация: http://qa-scooter.praktikum-services.ru/docs/
 
 # Команды:
